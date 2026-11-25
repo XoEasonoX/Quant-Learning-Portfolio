@@ -16,19 +16,19 @@ My goal is to gradually develop the technical skills required to conduct quantit
 
 ## Portfolio
 
-### Programming
+### [Programming](./Programming/)
 Developing programming skills through algorithmic problems and practical implementation.
 
-### Data Science
+### [Data Science](./Data-Science/)
 Learning data processing, analysis and visualization using Python.
 
-### Machine Learning
+### [Machine Learning](./Machine-Learning/)
 Studying machine learning fundamentals and conducting experiments.
 
-### Quantitative Finance
+### [Quantitative Finance](./Quant/)
 Exploring financial data, quantitative research and strategy development.
 
-### Projects
+### [Projects](./Projects/)
 Practical projects developed throughout my learning journey.
 
 ## Progress
