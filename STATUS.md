@@ -66,6 +66,14 @@
 - Portfolio 只保存使用者選擇的展示成果，不記錄日常流水帳；使用者決定是否保存。
 - STATUS 交接與Portfolio成果分離。
 
+## GitHub 交接機制（2026-11-27）
+- GitHub 已連接並實測讀取本 repository。
+- 單一進度來源：本文件（`STATUS.md`）。
+- 新對話時，依 Project Instructions 指向的 GitHub URL 讀取最新版；不可假設只靠 Project 內舊檔。
+- 每次學習結束，先整理進度再直接更新 GitHub STATUS.md，並確認 commit 成功；不要讓使用者自行下載/替換 Project Source。
+- 若無法讀取或寫入 GitHub，明確告知，勿假稱已更新。
+- GitHub URL：https://github.com/XoEasonoX/Quant-Learning-Portfolio/blob/main/STATUS.md
+
 ## 新對話交接流程
 1. 讀取此 GitHub 文件最新版。
 2. 核對使用者最新明確進度，不重複完成事項。
