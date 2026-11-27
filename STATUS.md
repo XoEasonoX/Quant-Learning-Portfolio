@@ -79,3 +79,9 @@
 2. 核對使用者最新明確進度，不重複完成事項。
 3. 依各線「下一步」接續；不推測未完成事項。
 4. 學習結束時更新本文件，保持覆寫式精簡、下次起點明確。
+
+
+## Session Log（2026-11-27）
+- 今日學習：#901 Online Stock Span 的 AC / guided completion 已記錄；完成並驗證 GitHub STATUS.md 新對話交接機制可讀取 main 最新進度。
+- 今日未開始 MLCC programming exercise 或 Pandas 整合練習，未記錄為完成。
+- 下次起點：MLCC `linear_regression_taxi.ipynb` 的 `Load dependencies` cell；不重跑已成功的 install cell。若時間允許，再進行 Pandas 整合型策略績效分析；LeetCode 接續新題，不立即重寫 #901。
