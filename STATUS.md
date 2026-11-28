@@ -1,6 +1,6 @@
 # 程式練習 — STATUS.md
 
-**最後更新：2026-11-27**
+**最後更新：2026-11-28**
 
 本文件為學習交接單一權威來源。新對話先讀取 GitHub 最新版；使用者明確更新的進度優先。不要假設未確認內容完成。
 
@@ -85,3 +85,10 @@
 - 今日學習：#901 Online Stock Span 的 AC / guided completion 已記錄；完成並驗證 GitHub STATUS.md 新對話交接機制可讀取 main 最新進度。
 - 今日未開始 MLCC programming exercise 或 Pandas 整合練習，未記錄為完成。
 - 下次起點：MLCC `linear_regression_taxi.ipynb` 的 `Load dependencies` cell；不重跑已成功的 install cell。若時間允許，再進行 Pandas 整合型策略績效分析；LeetCode 接續新題，不立即重寫 #901。
+
+
+## Session Log（2026-11-28）
+- 今日 LeetCode：開始 #994 Rotting Oranges（Medium），接觸 BFS / Multi-source BFS 概念。
+- 理解：腐爛橘子會同時感染相鄰新鮮橘子，因此以分鐘分層擴散；Queue/FIFO 用來維持 BFS 層次順序。
+- 今日進度：尚未完成題目，也未 AC。開始理解 Queue、座標與四方向鄰居，但仍覺得整體題型較難；記錄為初步概念接觸，非完成。
+- 下次起點：從 #994 繼續，先回顧 BFS 分層與 Queue，再逐步完成四方向檢查、分鐘計數與 fresh oranges 判斷；採小步驟提示，不直接要求獨立 AC。
